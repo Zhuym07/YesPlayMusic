@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "http://netease-music-api-cdn.zer0code.cn/:match*"
+    }
+  ]
+}
